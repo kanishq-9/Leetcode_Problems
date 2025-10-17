@@ -1,0 +1,15 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "urlshortening.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^13.0.0"
+  }
+}
